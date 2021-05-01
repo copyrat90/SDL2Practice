@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src",
+                "D:/Library/SDL2/i686-w64-mingw32/include/SDL2",
+                "D:/Library/Lua5.4/include"
+            ],
+            "defines": [],
+            "compilerPath": "D:/Library/MinGW/mingw32/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+}
